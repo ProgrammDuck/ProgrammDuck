@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammDuck&show_icons=true&theme=dark"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammDuck&show_icons=true&theme=dark&locale=ru"><br>
   <img alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck">
   <img alt="Reddit" src="https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F"><br>
