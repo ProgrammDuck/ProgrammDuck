@@ -66,3 +66,5 @@
 
   </tr>
 </table>
+
+<p align="center"><img src="https://github.com/ProgrammDuck/ProgrammDuck/blob/output/github-snake-dark.svg"></p>
