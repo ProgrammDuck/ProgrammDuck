@@ -1,5 +1,32 @@
-<h1 align="center">Python, Java, Luau develop and minecraft plugins customizing</h1>
+<h2 align="center"><img src="https://github.com/ProgrammDuck/ProgrammDuck/blob/main/wave.gif" width="30"> Привет! Меня зовут Илья.</h2>    
+<h3 align="center"> ❓Обо мне </h3>
+<p align="center">
+  И так, мой путь начинался с какого-то роблокса в 22-23 году, где я хотел написать скрипты Lua, научился, спустя 4-5 месяцев.<br>
+  После этого в 24 году я попробовал Python и освоил его и начал писать ботов в дискорде.<br>
+  А сейчас, в 25 году, я изучаю C#.
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammDuck&show_icons=true&theme=dark"><br>
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck">
+  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F"><br>
+  <img alt="Mail" src="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-black?style=for-the-badge&logo=Gmail&logoColor=%2330B980&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F">
+</p>
+
+<h3 align="center"> ☕Что я люблю </h3>
+<p align="center">
+  Как и написано у меня в профиле, <code>Баг багом исправляют, а кофе не помешает.</code>Так вот, я люблю кофе.<br>
+  <br>
+  Я могу пить его каждый день, в любое время, хоть ночью, потому что я не хочу спать.<br>
+  Если нет кофе, я пью чай, желательно заварной и зеленый, такой вкусный, ням ням. Пью без сахара, потому что мне так вкуснее.<br>
+  Из вкусняшек могу выделить любимые всеми программистами печеньки, а так же люблю баранки. Слюньки потекли, не так ли?
+</p>
+
+<h3 align="center">📕Языки программирования и инструменты</h3>
+<p align="center">
+  Ниже таблица с изученными или изучаемыми языками программирования. Чуть ниже инструменты для работы с ними.
+</p>
 <table align="center">
   <tr>
     <td><p align="center"><strong>Task:</strong></p></td>
@@ -37,83 +64,5 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="50" height="50" /></td>
     <td></td>
 
-  </tr>
-</table>
-
-<br>
-<h2 align="center">👋 Привет!</h2>    
-<p align="center">Как я уже и говорил раньше, <code>Баг багом исправляют, а кофе не помешает.</code>Так вот, я люблю кофе.<br>
-  <br>
-  Я могу пить его каждый день, в любое время, хоть ночью, потому что я не хочу спать.<br>
-  Если нет кофе, я пью чай, желательно заварной и зеленый, такой вкусный, ням ням. Пью без сахара, потому что мне так вкуснее.<br>
-  Из вкусняшек могу выделить любимые всеми программистами печеньки, а так же люблю баранки. Слюньки потекли, не так ли?
-</p>
-<br>
-<p align="center">
-  Если вы видели таблицу сверху, эта таблица говорит какие IDE я использую и для каких задач, которые я способен решить.
-</p>
-<br>
-<h2 align="center">📞 Связь</h1>
-<p align="center">
-  Если вы хотите связаться со мной, то вот мои акканты, где вы можете написать мне.<br>
-  (Хотя они указны в профиле, я продублирую их здесь)
-</p>
-<br>
-<table align="center">
-  <tr align="center">
-    <td>
-      <img width="30" height="30" title="Discord" alt="Discord" src="https://github.com/user-attachments/assets/4b65560f-8091-46e6-ba9a-f32c21060f0c" /><br>
-    </td>
-    <td>
-      <img width="30" height="30" title="Telegram" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" /><br>
-    </td>
-    <td>
-      <img width="30" height="30" title="Reddit" alt="Reddit" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" /><br>
-    </td>
-    <td>
-      <img width="30" height="30" title="Teams" alt="Teams" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" /><br>
-    </td>
-    <td>
-      <img width="30" height="30" title="Matrix" alt="Matrix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Element_%28software%29_logo.svg/2048px-Element_%28software%29_logo.svg.png" /><br>
-    </td>
-    <td>
-      <img width="30" height="30" title="Email" alt="Email" src="https://marketplace.canva.com/MheoY/MAFPBiMheoY/1/tl/canva-business-card-contact-information-icons.-mail-icon.-contact-us-MAFPBiMheoY.png" /><br>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://discord.com/users/programmduck">Click</a><br>
-    </td>
-    <td>
-      <a href="https://t.me/programmduck">Click</a><br>
-    </td>
-    <td>
-      <a href="https://www.reddit.com/user/Pr0gramm_Duck/">Click</a><br>
-    </td>
-    <td></td>
-    <td></td>
-    <td>
-      <a href="mailto:ProgrammDuck@yandex.ru">Write</a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      ProgrammDuck
-    </td>
-    <td>
-      @ProgrammDuck
-    </td>
-    <td>
-      Pr0gramm_duck
-    </td>
-    <td>
-      ProgrammDuck@outlook.com
-    </td>
-    <td>
-      @programmduck:matrix.org
-    </td>
-    <td>
-      ProgrammDuck@yandex.ru
-    </td>
   </tr>
 </table>
