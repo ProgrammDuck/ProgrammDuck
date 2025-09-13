@@ -24,12 +24,6 @@
     <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
   </picture>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck](https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F)" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
-    <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
-  </picture>
-  
   <img alt="Reddit" src="https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F"><br>
   <img alt="Mail" src="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-black?style=for-the-badge&logo=Gmail&logoColor=%2330B980&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F">
 </div>
