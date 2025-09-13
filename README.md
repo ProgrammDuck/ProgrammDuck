@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/programmduck" target="_blank">
+  <a href="https://discord.com/users/programmduck">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord" />
@@ -21,7 +21,7 @@
   </a>
   
   <!-- Telegram -->
-  <a href="https://t.me/programmduck" target="_blank">
+  <a href="https://t.me/programmduck">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram" />
@@ -30,7 +30,7 @@
   </a>
   
   <!-- Reddit -->
-  <a href="https://www.reddit.com/user/Pr0gramm_Duck/" target="_blank">
+  <a href="https://www.reddit.com/user/Pr0gramm_Duck/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Reddit-Pr0grammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Reddit" />
@@ -39,7 +39,7 @@
   </a>
   
   <!-- Mail -->
-  <a href="mailto:programmduck@yandex.ru" target="_blank">
+  <a href="mailto:programmduck@yandex.ru">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-black?style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-lightgray?labelColor=gray&style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
