@@ -12,22 +12,40 @@
 </div>
 
 <div align="center"
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
-    <img title="Discord" alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
-
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
-    <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
-  </picture>
+  <a href="https://discord.com/users/programmduck" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord" />
+      <img title="Discord" alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord" />
+    </picture>
+  </a>
   
-  <picture>
-    <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
-  </picture>
+  <!-- Telegram -->
+  <a href="https://t.me/programmduck" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram" />
+      <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram" />
+    </picture>
+  </a>
   
-  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F"><br>
-  <img alt="Mail" src="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-black?style=for-the-badge&logo=Gmail&logoColor=%2330B980&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F">
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/Pr0gramm_Duck/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Reddit-Pr0grammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Reddit" />
+      <img title="Reddit" alt="Reddit" src="https://img.shields.io/badge/Reddit-Pr0grammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Reddit" />
+    </picture>
+  </a>
+  
+  <!-- Mail -->
+  <a href="mailto:programmduck@yandex.ru" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-black?style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-lightgray?labelColor=gray&style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
+      <img title="Mail" alt="Mail" src="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-lightgray?labelColor=gray&style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
+    </picture>
+  </a>
 </div>
 
 <h3 align="center"> ☕Что я люблю </h3>
