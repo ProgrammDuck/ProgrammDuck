@@ -6,14 +6,33 @@
   А сейчас, в 25 году, я изучаю C#.
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProgrammDuck&show_icons=true&locale=ru&bg_color=45,FF7700,F26363&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammDuck&layout=compact&theme=dark&locale=ru&bg_color=45,F26363,FF7700&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck">
+</div>
+
+<div align="center"
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
+    <img title="Discord" alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
+    <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck](https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F)" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
+    <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
+  </picture>
+  
   <img alt="Reddit" src="https://img.shields.io/badge/Reddit-Pr0grammDuck-black?style=for-the-badge&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F"><br>
   <img alt="Mail" src="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-black?style=for-the-badge&logo=Gmail&logoColor=%2330B980&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FPr0gramm_Duck%2F">
-</p>
+</div>
 
 <h3 align="center"> ☕Что я люблю </h3>
 <p align="center">
