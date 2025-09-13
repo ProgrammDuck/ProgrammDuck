@@ -16,11 +16,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
     <img title="Discord" alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fprogrammduck" />
+
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-black?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
     <img title="Telegram" alt="Telegram" src="https://img.shields.io/badge/Telegram-%40ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fprogrammduck" />
   </picture>
   
