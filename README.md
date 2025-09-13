@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammDuck&layout=compact&theme=dark&locale=ru&bg_color=45,F26363,FF7700&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>
 </div>
 
-<div align="center"
+<div align="center">
   <a href="https://discord.com/users/programmduck" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-ProgrammDuck-black?style=for-the-badge&logo=Discord" />
