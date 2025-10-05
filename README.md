@@ -71,6 +71,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50" alt="JSON" title="JSON" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" alt="C#" title="C#" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" alt="C++" title="C++" />
 </div>
 
 <div align="center">
@@ -80,6 +81,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code" title="VS Code" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="50" alt="WebStorm" title="WebStorm" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="50" alt="CLion" title="CLion" />
 </div>
 
 
