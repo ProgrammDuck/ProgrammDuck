@@ -77,7 +77,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50" alt="PyCharm" title="PyCharm" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-  <img src="https://camo.githubusercontent.com/f03c3566f5a1b94f2a989c598af5864490f9d34882d237851ce2040850745431/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f352f35382f526f626c6f785f53747564696f5f6c6f676f5f323032315f70726573656e742e737667" width="50" alt="Roblox Studio" title="Roblox Studio" />
+  <img src="ROBLOX_Studio_icon.png" width="50" alt="Roblox Studio" title="Roblox Studio" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code" title="VS Code" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="50" alt="WebStorm" title="WebStorm" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50" alt="Visual Studio" title="Visual Studio" />
