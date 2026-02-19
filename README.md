@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammDuck&show_icons=true&locale=ru&bg_color=45,FF7700,F26363&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammDuck&layout=compact&theme=dark&locale=ru&bg_color=45,F26363,FF7700&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProgrammDuck&show_icons=true&locale=ru&bg_color=45,FF7700,F26363&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProgrammDuck&layout=compact&theme=dark&locale=ru&bg_color=45,F26363,FF7700&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>
 </div>
 
 <div align="center">
@@ -77,7 +77,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50" alt="PyCharm" title="PyCharm" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-  <img src="ROBLOX_Studio_icon.png" width="50" alt="Roblox Studio" title="Roblox Studio" />
+  <img src=".\ROBLOX_Studio_icon.png" width="50" alt="Roblox Studio" title="Roblox Studio" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code" title="VS Code" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="50" alt="WebStorm" title="WebStorm" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50" alt="Visual Studio" title="Visual Studio" />
