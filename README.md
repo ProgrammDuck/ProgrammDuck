@@ -7,9 +7,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProgrammDuck&show_icons=true&locale=ru&bg_color=45,FF7700,F26363&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>
+  <img height="230" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProgrammDuck&show_icons=true&locale=ru&bg_color=45,FF7700,F26363&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"> <a href="https://mynickname.com/ProgrammDuck"><img height="195" src="https://mynickname.com/img.php?id=1827946&sert=1" alt="Сертификат на никнейм ProgrammDuck, зарегистрирован на Илью" border="0" /></a><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProgrammDuck&layout=compact&theme=dark&locale=ru&bg_color=45,F26363,FF7700&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"><br>
 </div>
+
 
 <div align="center">
   <a href="https://discord.com/users/programmduck">
@@ -19,7 +20,6 @@
       <img title="Discord" alt="Discord" src="https://img.shields.io/badge/Discord-ProgrammDuck-lightgray?labelColor=gray&style=for-the-badge&logo=Discord" />
     </picture>
   </a>
-  
   <!-- Telegram -->
   <a href="https://t.me/programmduck">
     <picture>
@@ -61,6 +61,7 @@
 <p align="center">
   Здесь расположены мои инструменты и языки программирования (изученные и изучаемые).
 </p>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="Python" title="Python" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" alt="Java" title="Java" />
