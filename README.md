@@ -46,6 +46,14 @@
       <img title="Mail" alt="Mail" src="https://img.shields.io/badge/Mail-ProgrammDuck%40yandex.ru-lightgray?labelColor=gray&style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
     </picture>
   </a>
+
+  <a href="mailto:programmduck@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Mail-ProgrammDuck%40gmail.com-black?style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Mail-ProgrammDuck%40gmail.com-lightgray?labelColor=gray&style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
+      <img title="Mail" alt="Mail" src="https://img.shields.io/badge/Mail-ProgrammDuck%40gmail.com-lightgray?labelColor=gray&style=for-the-badge&logo=Gmail&logoColor=%2330B980" />
+    </picture>
+  </a>
 </div>
 
 <h3 align="center"> ☕Что я люблю </h3>
